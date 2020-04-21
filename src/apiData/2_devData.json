@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A0000001",
+    "records": [
+      {
+        "tab_name": "personal_info",
+        "tab_sequence": 0,
+        "data": {
+          "first_name": "Fishman",
+          "last_name": "ILike",
+          "gender": 1,
+          "address": "ABCDEFG",
+          "is_homeless": false,
+          "job": null,
+          "note": null
+        }
+      },
+      {
+        "tab_name": "orders",
+        "tab_sequence": 1,
+        "data": {
+          "apple_count": 1,
+          "banana_condiments": ["chocolate", "chili", "garlic", "soy_sauce"]
+        }
+      },
+      {
+        "tab_name": "overview",
+        "tab_sequence": 2
+      }
+    ]
+  }
+]

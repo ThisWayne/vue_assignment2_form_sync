@@ -1,0 +1,18 @@
+[
+  {
+    "id": "A0000001",
+    "personal_info": {
+      "first_name": "Fishman",
+      "last_name": "ILike",
+      "gender": 1,
+      "address": "ABCDEFG",
+      "is_homeless": false,
+      "job": null,
+      "note": null
+    },
+    "orders": {
+      "apple_count": 1,
+      "banana_condiments": ["chocolate", "chili", "garlic", "soy_sauce"]
+    }
+  }
+]
